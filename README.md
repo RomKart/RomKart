@@ -7,8 +7,11 @@
 - 👯 I’m looking to collaborate on everything :)
 - 📫 How to reach me: 
    -Discord: RomKart#6403
+
    -Email: kenoveritgames@gmail.com
+
    -Twitter: RomKartDev
+
 -🌷 I’m intrested to help with anything for anyone 
 
 ![](https://komarev.com/ghpvc/?username=RomKart&label=PROFILE+VIEWS)
