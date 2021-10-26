@@ -1,19 +1,24 @@
 ### Hi there 👋
 
+### I'm Nandagopal
+
+-🔭 I’m currently working on my website and i'm not motivated to
+- 🌱 I’m currently learning school stuffs and many others.. I guess so
+- 👯 I’m looking to collaborate on everything :)
+- 📫 How to reach me: 
+   -Discord: RomKart#6403
+   -Email: kenoveritgames@gmail.com
+   -Twitter: RomKartDev
+-🌷 I’m intrested to help with anything for anyone 
+
 ![](https://komarev.com/ghpvc/?username=RomKart&label=PROFILE+VIEWS)
 
 
 <!--
-**RomKart/RomKart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
