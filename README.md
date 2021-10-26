@@ -2,9 +2,14 @@
 
 ### I'm Nandagopal
 
+![](https://komarev.com/ghpvc/?username=RomKart&label=PROFILE+VIEWS)
+
 -🔭 I’m currently working on my website and i'm not motivated to
+
 - 🌱 I’m currently learning school stuffs and many others.. I guess so
+
 - 👯 I’m looking to collaborate on everything :)
+
 - 📫 How to reach me: 
 
    -Discord: RomKart#6403
@@ -13,9 +18,10 @@
 
    -Twitter: RomKartDev
 
+
 -🌷 I’m intrested to help with anything for anyone 
 
-![](https://komarev.com/ghpvc/?username=RomKart&label=PROFILE+VIEWS)
+
 
 
 <!--
