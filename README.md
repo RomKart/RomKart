@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning school stuffs and many others.. I guess so
 - 👯 I’m looking to collaborate on everything :)
 - 📫 How to reach me: 
+
    -Discord: RomKart#6403
 
    -Email: kenoveritgames@gmail.com
