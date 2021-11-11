@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RomKart&label=PROFILE+VIEWS)
 
-- 🔭 I’m currently working on games and cool stuffs 
+- 🔭 I’m currently working on making calculators in many languages
 
 - 🌱 I’m currently learning multiple languages and vibing the school days.. basically bored
 
