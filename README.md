@@ -4,11 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=RomKart&label=PROFILE+VIEWS)
 
--🔭 I’m currently working on my website and i'm not motivated to
+-🔭 I’m currently working on games and cool stuffs 
 
-- 🌱 I’m currently learning school stuffs and many others.. I guess so
-
-- 👯 I’m looking to collaborate on everything :)
+- 🌱 I’m currently learning school stuffs and many others..
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomKart&hide_border=enabled&theme=radical&show_icons=true)
 
@@ -22,10 +20,6 @@
    -Email: kenoveritgames@gmail.com
 
    -Twitter: RomKartDev
-
-
--🌷 I’m intrested to help with anything for anyone 
-
 
 
 
