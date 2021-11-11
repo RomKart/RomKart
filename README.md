@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RomKart&label=PROFILE+VIEWS)
 
--🔭 I’m currently working on games and cool stuffs 
+- 🔭 I’m currently working on games and cool stuffs 
 
 - 🌱 I’m currently learning school stuffs and many others..
 
