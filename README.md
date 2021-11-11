@@ -30,7 +30,7 @@
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomKart&hide_border=enabled&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomKart&hide_border=enabled&theme=gradient&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomKart&layout=compact&hide_border=enabled&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
