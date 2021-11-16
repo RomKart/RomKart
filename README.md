@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I'm Nandagopal. I'm a student who like to make games and cool stuffs
-### I can do any language.. Hence I'm quite useful in a team! I love to do stuffs as team too 
+### I'm Nandagopal. I'm a student who like to make games and cool stuffs. I can do any language.. Hence I'm quite useful in a team! I love to do stuffs as team too 
+
 
 
 
