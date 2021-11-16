@@ -11,9 +11,9 @@
 - 📫 How to reach me: 
 ### Connect with me:
 
-[<img align="left" alt="kingrain.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://romkart.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="RainBoi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Romkart | Twitter" width="22px" src="view-source:https://abs.twimg.com/favicons/twitter.ico" />][twitter]
 [<img align="left" alt="Romkart | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 <br />
