@@ -15,6 +15,8 @@
    -Email: kenoveritgames@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomKart&hide_border=enabled&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomKart&layout=compact&hide_border=enabled&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
