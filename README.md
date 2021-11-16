@@ -14,7 +14,7 @@
 [<img align="left" alt="kingrain.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="RainBoi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RainBoi | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+[<img align="left" alt="Romkart | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 <br />
 
@@ -23,6 +23,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomKart&layout=compact&hide_border=enabled&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[website]: https://romkart.github.io/
+[twitter]: https://twitter.com/RomKartDev
+[instagram]: https://www.instagram.com/romkart.py/
 
 <!--
 - 💬 Ask me about ...
