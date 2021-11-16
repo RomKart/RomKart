@@ -14,9 +14,9 @@
 
 
 ### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomKart&layout=compact&hide_border=enabled&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomKart&hide_border=enabled&theme=radical&show_icons=true&align="centre")
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomKart&layout=compact&hide_border=enabled&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://romkart.github.io/
