@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-### I'm Nandagopal. I'm a student who like to make games and cool stuffs. I can do any language.. Hence I'm quite useful in a team! I love to do stuffs as team too 
-
-
-
-
-![](https://komarev.com/ghpvc/?username=RomKart&label=PROFILE+VIEWS)
-
+### I'm Nandagopal. I'm a student who like to make games and cool stuffs. I can do any language.. Hence I'm quite useful in a team! I love to do stuffs as team too. I support FOSS. I'm avalible at discord commonly! 
  
 ### 📫  Connect with me:
+ 💙 My Discord Tag: RomKart#6403
 
 [<img align="left" alt="https://romkart.github.io/" width="22px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-globe-3.png&r=255&g=67&b=46" />][website]
 [<img align="left" alt="Romkart | Twitter" width="22px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-twitter-1.png&r=54&g=215&b=255" />][twitter]
