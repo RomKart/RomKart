@@ -13,7 +13,7 @@
 
 [<img align="left" alt="https://romkart.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="Romkart | Twitter" width="22px" src="https://pbs.twimg.com/media/E0XYuioVgAUB-mg?format=png&name=120x120" />][twitter]
+[<img align="left" alt="Romkart | Twitter" width="22px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-twitter-1.png&r=54&g=215&b=255" />][twitter]
 [<img align="left" alt="Romkart | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 
 <br />
