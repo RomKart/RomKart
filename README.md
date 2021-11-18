@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-### I'm Nandagopal. I'm a student who like to make games and cool stuffs. I can do any language.. Hence I'm quite useful in a team! I love to do stuffs as team too. I support FOSS. I'm avalible at discord commonly! 
+### I'm Nandagopal. I'm a student who like to make games and cool stuffs. 
  
+### I like to do stuffs as team <3
+
 ### 📫  Connect with me:
  💙 My Discord Tag: RomKart#6403
 
