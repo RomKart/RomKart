@@ -7,6 +7,10 @@
 ### 📫  Connect with me:
 - 💙 My Discord Tag: RomKart#6403 
 - 💜 Contact Email : contactromkart@pm.me
+website]: https://romkart.github.io/
+[twitter]: https://twitter.com/RomKartDev
+[instagram]: https://www.instagram.com/romkart.py/
+[discord]: https://discord.gg/N7AAnrpp2y
 
 
 ### Socials
@@ -19,7 +23,7 @@
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomKart&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomKart&show_icons=true&hide_border=enabled&theme=radical)
 
 
 
@@ -27,16 +31,10 @@
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomKart&hide_border=enabled&theme=radical&show_icons=true&align="centre")
 -->
-[![Top Langs <img align="center",   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;/>](https://github-readme-stats.vercel.app/api/top-langs/?username=RomKart&hide_border=enabled&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomKart&hide_border=enabled&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-[website]: https://romkart.github.io/
-[twitter]: https://twitter.com/RomKartDev
-[instagram]: https://www.instagram.com/romkart.py/
-[discord]: https://discord.gg/N7AAnrpp2y
+[
 <!--
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
