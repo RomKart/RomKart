@@ -34,7 +34,6 @@ website]: https://romkart.github.io/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomKart&hide_border=enabled&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-[
 <!--
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
