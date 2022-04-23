@@ -9,8 +9,8 @@
 - 💜 Contact Email : contactromkart@pm.me
 
 [website]: https://romkart.github.io/
-[twitter]: https://twitter.com/RomKartDev
-[instagram]: https://www.instagram.com/romkart.py/
+[twitter]: https://twitter.com/romkartplays
+[instagram]: https://www.instagram.com/romk4rt/
 [discord]: https://discord.gg/N7AAnrpp2y
 
 [<img align="left" alt="https://romkart.github.io/" width="22px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-globe-3.png&r=255&g=67&b=46" />][website]
