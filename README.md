@@ -2,7 +2,7 @@
 
 ### I'm Nandagopal. I'm a student who like to make games and cool stuffs. 
  
-### I like to do stuffs as team <3
+
 
 ### 📫  Connect with me:
 - 💙 My Discord Tag: RomKart#6403 
