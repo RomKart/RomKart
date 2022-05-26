@@ -13,7 +13,7 @@
 [instagram]: https://www.instagram.com/romk4rt/
 [discord]: https://discord.gg/N7AAnrpp2y
 
-[<img align="left" alt="https://romkart.github.io/" width="22px" src="https://cdn.iconscout.com/icon/free/png-128/website-191-415022.png" />][website]
+[<img align="left" alt="https://romkart.github.io/" width="28px" src="https://cdn.iconscout.com/icon/free/png-128/website-191-415022.png" />][website]
 
 [<img align="left" alt="Romkart | Twiter" width="22px" src="https://cdn.iconscout.com/icon/free/png-128/twitter-2038532-1718517.png" />][twitter]
 
